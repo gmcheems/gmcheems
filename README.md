@@ -7,7 +7,7 @@ GM Cheems is a chess.com assistant
 
 ## Install
 
-Only Chromium-based browsers such as Chrome or Brave are supported.
+Chromium-based browsers such as Chrome or Brave are supported and Firefox are supported.
 
 Install [Tampermonkey](https://tampermonkey.net/) then [click here to install GM Cheems](https://github.com/gmcheems/gmcheems/releases/latest/download/gm-cheems.user.js)
 
