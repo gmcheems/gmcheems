@@ -16,7 +16,6 @@
   </a>
 </div>
 
-GM Cheems is a chess.com assistant
 
 # See https://github.com/gmcheems/gmcheems/discussions/14 for a big update
 
