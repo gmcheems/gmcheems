@@ -21,9 +21,9 @@
 
 ## Install
 
-Chromium-based browsers such as Chrome or Brave are supported and Firefox are supported.
+Chromium-based browsers such as Chrome or Brave are supported.
 
-Install [Tampermonkey](https://tampermonkey.net/) then [click here to install GM Cheems](https://github.com/gmcheems/gmcheems/releases/latest/download/gm-cheems.user.js)
+Install from the [Chrome Webstore](https://chrome.google.com/webstore/detail/gm-cheems/bmkmigdaklnhklmiialljbpjiedmnifh?hl=en&authuser=0)
 
 ## Troubleshooting
 To report a bug, click the "report bug" button on the top right and follow the instructions.
