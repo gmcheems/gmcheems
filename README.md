@@ -16,9 +16,6 @@
   </a>
 </div>
 
-
-# See https://github.com/gmcheems/gmcheems/discussions/14 for a big update
-
 ## Install
 
 Chromium-based browsers such as Chrome or Brave are supported.
