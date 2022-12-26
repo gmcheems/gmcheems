@@ -28,6 +28,3 @@
 Chromium-based browsers such as Chrome or Brave are supported.
 
 Install from the [Chrome Webstore](https://chrome.google.com/webstore/detail/gm-cheems/bmkmigdaklnhklmiialljbpjiedmnifh?hl=en&authuser=0)
-
-## Troubleshooting
-To report a bug, click the "report bug" button on the top right and follow the instructions.
