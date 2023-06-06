@@ -15,12 +15,13 @@
       style="height: 41px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" />
   </a>
 
-  <a href="https://chrome.google.com/webstore/detail/gm-cheems/bmkmigdaklnhklmiialljbpjiedmnifh/" target="_blank">
+<!--  We got banned ;(   -->
+<!--   <a href="https://chrome.google.com/webstore/detail/gm-cheems/bmkmigdaklnhklmiialljbpjiedmnifh/" target="_blank">
     <img
       src="https://img.shields.io/chrome-web-store/users/bmkmigdaklnhklmiialljbpjiedmnifh?color=%231a73e8&label=Chrome%20Users&logo=googlechrome&logoColor=white"
       alt="Chrome Webstore" 
       style="height: 41px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" />
-  </a>
+  </a> -->
 </div>
 
 ## Install
