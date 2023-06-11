@@ -26,6 +26,4 @@
 
 ## Install
 
-Chromium-based browsers such as Chrome or Brave are supported.
-
 Installation instructions can be found [here](https://gmcheems.com/docs/setup)
