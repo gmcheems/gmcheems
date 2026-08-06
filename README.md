@@ -27,8 +27,8 @@
 
 ## Website
 
-https://gmcheems.netlify.app/
+https://gmcheems.xyz
 
 ## Install
 
-Installation instructions can be found [here](https://gmcheems.netlify.app/docs/setup)
+Installation instructions can be found [here](https://gmcheems.xyz/docs/setup)
