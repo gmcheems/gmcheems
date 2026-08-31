@@ -38,6 +38,6 @@
 
 https://gmcheems.xyz
 
-## Install
+## Docs
 
-Installation instructions can be found [here](https://gmcheems.xyz/docs/setup)
+https://gmcheems.xyz/docs/guides/how-it-works
